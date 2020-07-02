@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba19beb3-c1ee-4a54-9a54-9ebd1d6ba775" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1bBSCY9ABsG9K3HGm1XfAvJvgxu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba19beb3-c1ee-4a54-9a54-9ebd1d6ba775" name="Default Changelist" comment="" />
+      <created>1588103866989</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588103866989</updated>
+      <workItem from="1588103869843" duration="1737000" />
+      <workItem from="1588158156109" duration="45000" />
+      <workItem from="1588621633023" duration="3616000" />
+      <workItem from="1589117568547" duration="668000" />
+      <workItem from="1589395991318" duration="2459000" />
+      <workItem from="1589403211011" duration="1714000" />
+      <workItem from="1590068370148" duration="2181000" />
+      <workItem from="1590078048075" duration="1554000" />
+      <workItem from="1593706207332" duration="346000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1515" height="199" key="GridCell.Tab.0.bottom" timestamp="1588109564014">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="199" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588109564014" />
+    <state width="1515" height="199" key="GridCell.Tab.0.center" timestamp="1588109564014">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="199" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588109564014" />
+    <state width="1515" height="199" key="GridCell.Tab.0.left" timestamp="1588109564014">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="199" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588109564014" />
+    <state width="1515" height="199" key="GridCell.Tab.0.right" timestamp="1588109564014">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="199" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588109564014" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1589403214844">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1589403214844" />
+  </component>
+</project>
